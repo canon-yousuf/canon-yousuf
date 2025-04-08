@@ -1,13 +1,13 @@
 # **Canon Yousuf**
 
-Welcome to my GitHub profile! I'm Canon Yousuf, currently deepening my expertise in Generative AI, Web3, and the Metaverse through the **Governor Sindh IT Initiative**. Having successfully completed the first quarter, I’m now moving into **Quarter 2**, where I will dive deeper into **Next.js**, **TypeScript**, and **Generative AI**.
+Welcome to my GitHub profile! I'm Canon Yousuf, currently deepening my expertise in Generative AI, Web3, and the Metaverse through the **Governor Sindh IT Initiative**. Having successfully completed the first quarter & Second quarter, I’m now moving into **Quarter 3rd**, where I will dive deeper into **Python**, **OpenAi Api SDK**, and **Fast Api**.
 
 ## 🚀 **About Me**
 
 - 🌐 **Name**: Canon Yousuf
 - 🎓 **Program**: Governor Sindh Initiative for GenAI, Web3, and Metaverse
 - 🏛 **Institution**: Governor Sindh IT Initiative
-- 📅 **Current Quarter**: 2nd Quarter
+- 📅 **Current Quarter**: 3rd Quarter
 - 💻 **Focus**: Next.js, TypeScript, Generative AI
 
 ## 🔧 **Technologies & Tools**
@@ -32,9 +32,9 @@ Here are some of the technologies and tools I am currently working with:
 
 I am actively improving my skills in:
 
-- **Next.js**: Building scalable server-rendered applications.
-- **TypeScript**: Utilizing static typing to enhance JavaScript applications.
-- **Generative AI**: Integrating AI into web development projects.
+-**Python:** Writing clean, efficient code for automation, backend systems, and AI workflows.
+-**OpenAI API SDK:** Harnessing the power of GPT and other large language models to create AI-driven experiences in web apps.
+-**FastAPI:** Designing high-performance, asynchronous RESTful APIs optimized for modern web and AI integrations.
 
 ## 📫 **How to Reach Me**
 
