@@ -32,9 +32,9 @@ Here are some of the technologies and tools I am currently working with:
 
 I am actively improving my skills in:
 
--**Python:** Writing clean, efficient code for automation, backend systems, and AI workflows.
--**OpenAI API SDK:** Harnessing the power of GPT and other large language models to create AI-driven experiences in web apps.
--**FastAPI:** Designing high-performance, asynchronous RESTful APIs optimized for modern web and AI integrations.
+- **Python:** Writing clean, efficient code for automation, backend systems, and AI workflows.
+- **OpenAI API SDK:** Harnessing the power of GPT and other large language models to create AI-driven experiences in web apps.
+- **FastAPI:** Designing high-performance, asynchronous RESTful APIs optimized for modern web and AI integrations.
 
 ## 📫 **How to Reach Me**
 
